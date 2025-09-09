@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial photo editor app with stickers, drawing, cropping"
+git branch -M main
+git remote add origin https://github.com/muhammadzaincomputers-dev/PhotoEditorAndroid.git
+git push -u origin main
